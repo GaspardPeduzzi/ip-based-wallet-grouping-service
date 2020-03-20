@@ -1,0 +1,62 @@
+{
+    "test_1": {
+      "non_reputable_wallets": ["4e844548-a23c-4a9d-8d4f-f137cd93c88c", "79ce17c9-97bf-417d-a181-54b9646bb79a", "861886ef-2d04-4145-a503-277c1ecd0773"],
+      "data": [
+        { 
+          "ip_src": "95.40.123.251",
+          "wallet_id": "4e844548-a23c-4a9d-8d4f-f137cd93c88c",
+          "payload": []
+        },
+        { 
+          "ip_src": "95.40.123.251",
+          "wallet_id": "79ce17c9-97bf-417d-a181-54b9646bb79a",
+          "payload": []
+        },
+        { 
+          "ip_src": "95.40.123.251",
+          "wallet_id": "861886ef-2d04-4145-a503-277c1ecd0773",
+          "payload": []
+        }
+      ]
+    },
+    "test_2": {
+      "non_reputable_wallets": [""],
+      "data": [
+        { 
+          "ip_src": "95.40.123.251",
+          "wallet_id": "4e844548-a23c-4a9d-8d4f-f137cd93c88c",
+          "payload": []
+        },
+        { 
+          "ip_src": "95.40.123.251",
+          "wallet_id": "79ce17c9-97bf-417d-a181-54b9646bb79a",
+          "payload": []
+        },
+        { 
+          "ip_src": "221.29.221.1301",
+          "wallet_id": "861886ef-2d04-4145-a503-277c1ecd0773",
+          "payload": []
+        }
+      ]
+    },
+    "test_3": {
+      "non_reputable_wallets": [""],
+      "data": [
+        { 
+          "ip_src": "95.40.123.251",
+          "wallet_id": "4e844548-a23c-4a9d-8d4f-f137cd93c88c",
+          "payload": []
+        },
+        { 
+          "ip_src": "221.29.221.1301",
+          "wallet_id": "861886ef-2d04-4145-a503-277c1ecd0773",
+          "payload": []
+        },
+        { 
+          "ip_src": "95.40.123.251",
+          "wallet_id": "4e844548-a23c-4a9d-8d4f-f137cd93c88c",
+          "payload": []
+        }
+      ]
+    }
+  }
